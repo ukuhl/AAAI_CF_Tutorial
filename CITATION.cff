@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Kuhl
+    given-names: Ulrike
+    orcid: "https://orcid.org/0000-0002-9405-918X"
+  - family-names: Artelt
+    given-names: André
+    orcid: "https://orcid.org/0000-0002-2426-3126"
+  - family-names: Keane
+    given-names: Mark T.
+    orcid: "https://orcid.org/0000-0001-7630-9598"
+contact:
+  - family-names: Kuhl
+    given-names: Ulrike
+    orcid: "https://orcid.org/0000-0002-9405-918X"
+message: "If you are using / referring to these materials in your own work, please cite it using these metadata."
+title: "Kuhl, U., Artelt, A., Keane, M.T. (2025). (Really) Using Counterfactuals to Explain AI Systems: Fundamentals, Methods, & User Studies for XAI (Tutorial). 39th AAAI Conference on Artificial Intelligence (AAAI'25), Philadelphia, US (February)"
+keywords:
+  - XAI
+  - tutorial
+license: MIT
+repository-code: "https://github.com/ukuhl/AAAI_CF_Tutorial"
