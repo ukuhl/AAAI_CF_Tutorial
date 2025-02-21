@@ -12,6 +12,10 @@ This tutorial features two hands-on sessions: 1) A session on computing counterf
 
 [Jupyter notebook](0-cf_in_python.ipynb) <a target="_blank" href="https://colab.research.google.com/github/ukuhl/AAAI_CF_Tutorial/blob/main/0-cf_in_python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+#### Analyzing a Simple Two-Group User Study
+
+[Jupyter notebook](1-user_study_evaluation_AAAI.ipynb) <a target="_blank" href="https://colab.research.google.com/github/ukuhl/AAAI_CF_Tutorial/blob/main/1-user_study_evaluation_AAAI.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ### How to cite
 
 If you are using / referring to these materials in your own work, please cite 
